@@ -1,2 +1,2 @@
 # Zero-Knowledge-Machine-Learning
-Intersection of Machine Learning, Cryptography and Blockchain
+Intersection of Machine Learning, Zero-Knowledge Cryptography and Blockchain
